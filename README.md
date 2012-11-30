@@ -1,4 +1,4 @@
-# WordPress Heroku
+# WordPress Heroku (日本語化)
 
 This project is a template for getting [WordPress](http://wordpress.org/) up and running on [Heroku](http://www.heroku.com/). It comes with [PostgreSQL for WordPress](http://wordpress.org/extend/plugins/postgresql-for-wordpress/) pre-installed in order to use Heroku's existing Postgres backend.
 
@@ -7,7 +7,7 @@ Installation
 
 Clone the repository from Github
 
-    $ git clone git://github.com/mhoofman/wordpress-heroku.git
+    $ git clone git://github.com/can-i-do-web/wordpress-heroku.git
     
 With the [Heroku gem](http://devcenter.heroku.com/articles/heroku-command), create your app
 
